@@ -1,4 +1,6 @@
-My first song first line
+
 My first song second line
 First song from github page
 First song another line from github page
+
+Sixth line added for git gui
